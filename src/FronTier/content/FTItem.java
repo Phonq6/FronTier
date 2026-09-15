@@ -4,5 +4,7 @@ import arc.graphics.Color;
 import arc.struct.Seq;
 import mindustry.type.Item;
 
-public class FT item {
+public class FTItem {
   pulbic static item
+  //Elements 
+  Lithium(Li),Beryllium(Bi),Boron(B),Carbon(C),
